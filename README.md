@@ -4,7 +4,7 @@ Get perfect shadows every time for the non-designer.
 
 # Installation
 
-`npm i shadowizard --save`
+`npm i @bim2016/shadowizard --save`
 
 Then...
 
